@@ -257,9 +257,11 @@ done
 
 # In this file i have tried to add all the codes necessary for executing all the 3 task . and rest of details is attached in the Readme file .  Due to time contraint other wise i can elaborate it more with more detials. 
 
-
 ![Screenshot (374)](https://github.com/Nikhilkumarmishra/Linux-Custom-commands/assets/87891556/122614f5-31f4-4951-be0c-4afb313bb8e3)
 ![Screenshot (373)](https://github.com/Nikhilkumarmishra/Linux-Custom-commands/assets/87891556/f16ce1cf-c359-4948-aa46-61b9401c9c5a)
 ![Screenshot (372)](https://github.com/Nikhilkumarmishra/Linux-Custom-commands/assets/87891556/fdedcf3d-5e59-449b-a49e-90438c825ada)
 ![Screenshot (371)](https://github.com/Nikhilkumarmishra/Linux-Custom-commands/assets/87891556/e3a25c31-0ed0-40fc-9163-0861d7900aef)
 ![Screenshot (370)](https://github.com/Nikhilkumarmishra/Linux-Custom-commands/assets/87891556/9512f1c5-bbda-4d09-a7d0-8809385eee75)
+
+Diagram , seprate folder for diagram is also there in the repository 
+![image](https://github.com/Nikhilkumarmishra/Linux-Custom-commands/assets/87891556/bc42b806-e556-4931-baa9-024ccfbda6e6)
